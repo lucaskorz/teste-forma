@@ -6,4 +6,4 @@ pnpm i (ou npm i)
 pnpm dev (ou npm dev)
 
 Abrir algum client http (postman/insomnia/yaak) e fazer a seguinte requisição
-POST /parcelas
+POST http://localhost:5000/parcelas
